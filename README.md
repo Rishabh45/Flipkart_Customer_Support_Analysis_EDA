@@ -54,7 +54,7 @@ Flipkart handles a high volume of customer queries daily, yet challenges like de
   - `matplotlib` **&** `seaborn` **:** Visualizationchannel_name:` Support channel (e.g., chat, email, phone).
   - `IPython.display` **:** Enhanced output formatting
 
-- **Environment:** Jupyter Notebook <br><br>
+- **Environment:** Jupyter Notebook. <br><br>
 
 ---
 ### Key Insights
@@ -63,5 +63,5 @@ Flipkart handles a high volume of customer queries daily, yet challenges like de
 - **Response Time Impact:** Longer response and resolution times strongly correlate with lower CSAT scores.
 - **Agent Performance:** Evening shift agents show lower satisfaction ratings, indicating training or staffing gaps.
 <p align="center">
-  <img src="https://github.com/Rishabh45/Flipkart_Customer_Support_Analysis_EDA/blob/main/CSAT%20Score%20Distribution.PNG" width="700" height="400">
-</p>
+  <img src="https://github.com/Rishabh45/Flipkart_Customer_Support_Analysis_EDA/blob/main/CSAT%20Score%20Distribution.PNG" width="800" height="500">
+</p> <br><br>
