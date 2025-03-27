@@ -37,11 +37,11 @@ Flipkart handles a high volume of customer queries daily, yet challenges like de
 - **Size:** 85,907 rows, 20 columns
   
 - **Key Columns:**
-  - `CSAT Score:` Customer satisfaction rating (1-5).
-  - `channel_name:` Support channel (e.g., chat, email, phone).
-  - `category & Sub-category:` Issue type.
-  - `Issue_reported at & issue_responded:` Timestamps for response time analysis.
-  - `Agent_name, Agent Shift:` Agent performance metrics.
+  - `CSAT Score` **:** Customer satisfaction rating (1-5).
+  - `channel_name` **:** Support channel (e.g., chat, email, phone).
+  - `category` **&** `Sub-category` **:** Issue type.
+  - `Issue_reported at` **&** `issue_responded` **:** Timestamps for response time analysis.
+  - `Agent_name, Agent Shift` **:** Agent performance metrics.
 
 - **Missing Data:** Notable in `Customer Remarks` (33%), `order_date_time` (80%), and `connected_handling_time` (99%). <br><br>
 
