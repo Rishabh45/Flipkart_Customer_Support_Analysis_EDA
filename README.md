@@ -1,2 +1,6 @@
-[Click to View the Readme File](https://github.com/Rishabh45/Flipkart_Customer_Support_Analysis_EDA/blob/main/Flipkart_EDA.ipynb)
+<h1 style="text-align: center;">Flipkart Customer Support Analysis</h1>
+<p><b>Project Type -</b> Exploratory Data Analysis (EDA)</p>
+<h3><b>Project Summary</b></h3>
+<p>In the fiercely competitive e-commerce industry, delivering outstanding customer service is essential for maintaining growth and fostering customer loyalty. As one of the leading e-commerce platforms, Flipkart prioritizes enhancing customer satisfaction to stand out from its competitors. This project’s dataset includes customer interactions, feedback, and satisfaction scores across multiple support channels at Flipkart. By analyzing these interactions, the objective is to pinpoint the primary factors influencing customer satisfaction, evaluate the performance of different customer service teams, and devise strategies to enhance the overall service experience.
 
+Gaining insights into the elements that impact customer satisfaction will enable Flipkart to not only address customer concerns more efficiently but also customize its support strategies to meet varying customer needs. This approach will aid in optimizing service agent performance and boosting key satisfaction metrics like the CSAT score, ultimately strengthening brand loyalty and improving customer retention.</p>
