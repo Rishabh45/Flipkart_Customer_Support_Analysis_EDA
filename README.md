@@ -10,4 +10,4 @@ In the competitive e-commerce landscape, exceptional customer service is vital f
 
 **Type:** Individual Project
 
-**GitHub Repository:** [Flipkart_Customer_Support_Analysis_EDA](https://github.com/Rishabh45/Flipkart_Customer_Support_Analysis_EDA))
+**GitHub Repository:** ![Flipkart_Customer_Support_Analysis_EDA](https://github.com/Rishabh45/Flipkart_Customer_Support_Analysis_EDA)
