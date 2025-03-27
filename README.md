@@ -33,8 +33,11 @@ Flipkart handles a high volume of customer queries daily, yet challenges like de
 ---
 ### Dataset Details
 - **Source:** [Customer_support_data.csv](https://raw.githubusercontent.com/Rishabh45/Flipkart_Customer_Support_Analysis_EDA/refs/heads/main/Customer_support_data.csv)
-- **Enhance CSAT Scores:** Pinpoint factors lowering satisfaction and implement improvements.
-- **Optimize Resolution Efficiency:** Streamline workflows for faster issue resolution.
-- **Boost Agent Performance:** Improve training and workload management.
-- **Reduce Support Costs:** Automate repetitive tasks and optimize resources.
-- **Enable Data-Driven Decisions:** Leverage analytics for proactive support strategies. <br><br>
+- **Size:** 85,907 rows, 20 columns
+- **Key Columns:**
+  - `CSAT Score:` Customer satisfaction rating (1-5)
+  - `channel_name:` Support channel (e.g., chat, email, phone)
+  - `category & Sub-category:` Issue type
+  - `Issue_reported at & issue_responded:` Timestamps for response time analysis
+  - `Agent_name, Agent Shift:` Agent performance metrics
+- **Missing Data:** Notable in `Customer Remarks` (33%), `order_date_time` (80%), and `connected_handling_time` (99%). <br><br>
