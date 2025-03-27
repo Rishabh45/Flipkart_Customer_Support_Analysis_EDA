@@ -1,4 +1,6 @@
 <h1 style="text-align: center;">Flipkart Customer Support Analysis</h1>
+
+---
 <p align="center">
   <img src="https://github.com/Rishabh45/Flipkart_Customer_Support_Analysis_EDA/blob/main/flipkart_logo.png" width="700" height="400">
 </p>
