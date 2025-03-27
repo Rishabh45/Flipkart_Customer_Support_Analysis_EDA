@@ -44,3 +44,14 @@ Flipkart handles a high volume of customer queries daily, yet challenges like de
   - `Agent_name, Agent Shift:` Agent performance metrics.
 
 - **Missing Data:** Notable in `Customer Remarks` (33%), `order_date_time` (80%), and `connected_handling_time` (99%). <br><br>
+
+---
+### Technologies Used
+- **Python:** Core programming language
+  
+- **Libraries:**
+  - `pandas` **&** `numpy` **:** Data manipulation
+  - `matplotlib` **&** `seaborn` **:** Visualizationchannel_name:` Support channel (e.g., chat, email, phone).
+  - `IPython.display` **:** Enhanced output formatting
+
+- **Environment:** Jupyter Notebook <br><br>
