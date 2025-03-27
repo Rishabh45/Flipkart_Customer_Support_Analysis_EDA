@@ -72,3 +72,16 @@ Flipkart handles a high volume of customer queries daily, yet challenges like de
   <li>The high peak at 5.0 suggests that most customers are highly satisfied, while the smaller peak at 1.0 indicates a notable group of dissatisfied customers, highlighting a polarized customer experience.</li>
 </ul>
 </p> <br><br>
+
+---
+### Usage Instructions
+**1. Clone the Repository:** `git clone https://github.com/Rishabh45/Flipkart_Customer_Support_Analysis_EDA.git`
+  
+**2. Install Dependencies:** `pip install pandas numpy matplotlib seaborn`
+
+**3. Run the Notebook:**
+  - Open Flipkart_Customer_Support_Analysis.ipynb in Jupyter Notebook.
+  - Execute cells sequentially to load data, perform EDA, and visualize results.
+
+**4. Explore Results:** Review visualizations and recommendations in the notebook.
+<br><br>
