@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">Flipkart Customer Support Analysis</h1>
 <p align="center">
-  <img src="https://github.com/Rishabh45/Flipkart_Customer_Support_Analysis_EDA/blob/main/flipkart_logo.png" width="800" height="400">
+  <img src="https://github.com/Rishabh45/Flipkart_Customer_Support_Analysis_EDA/blob/main/flipkart_logo.png" width="700" height="400">
 </p>
 
 ---
@@ -19,4 +19,22 @@ Flipkart handles a high volume of customer queries daily, yet challenges like de
 - Identify common complaint categories.
 - Assess response times and their impact on CSAT scores.
 - Evaluate agent performance and support channel effectiveness.
-- Uncover patterns driving satisfaction levels.
+- Uncover patterns driving satisfaction levels. <br><br>
+
+---
+### Objectives
+Flipkart handles a high volume of customer queries daily, yet challenges like delayed responses, unresolved issues, and inconsistent satisfaction levels persist. This analysis aims to:
+- **Enhance CSAT Scores:** Pinpoint factors lowering satisfaction and implement improvements.
+- **Optimize Resolution Efficiency:** Streamline workflows for faster issue resolution.
+- **Boost Agent Performance:** Improve training and workload management.
+- **Reduce Support Costs:** Automate repetitive tasks and optimize resources.
+- **Enable Data-Driven Decisions:** Leverage analytics for proactive support strategies. <br><br>
+
+---
+### Dataset Details
+- **Source:** [Customer_support_data.csv](https://raw.githubusercontent.com/Rishabh45/Flipkart_Customer_Support_Analysis_EDA/refs/heads/main/Customer_support_data.csv)
+- **Enhance CSAT Scores:** Pinpoint factors lowering satisfaction and implement improvements.
+- **Optimize Resolution Efficiency:** Streamline workflows for faster issue resolution.
+- **Boost Agent Performance:** Improve training and workload management.
+- **Reduce Support Costs:** Automate repetitive tasks and optimize resources.
+- **Enable Data-Driven Decisions:** Leverage analytics for proactive support strategies. <br><br>
