@@ -11,3 +11,10 @@ In the competitive e-commerce landscape, exceptional customer service is vital f
 **Type:** Individual Project
 
 **GitHub Repository:** [Flipkart_Customer_Support_Analysis_EDA](https://github.com/Rishabh45/Flipkart_Customer_Support_Analysis_EDA)
+
+### Problem Statement
+Flipkart handles a high volume of customer queries daily, yet challenges like delayed responses, unresolved issues, and inconsistent satisfaction levels persist. This analysis aims to:
+- Identify common complaint categories.
+- Assess response times and their impact on CSAT scores.
+- Evaluate agent performance and support channel effectiveness.
+- Uncover patterns driving satisfaction levels.
