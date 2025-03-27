@@ -61,4 +61,7 @@ Flipkart handles a high volume of customer queries daily, yet challenges like de
 - **CSAT Distribution:** Scores concentrate between 2-5, peaking at 3-4, with outliers below 0 and above 8.
 - **Pain Points:** Refunds, returns, and cancellations yield the lowest CSAT scores and highest complaint frequency.
 - **Response Time Impact:** Longer response and resolution times strongly correlate with lower CSAT scores.
-- **Agent Performance:** Evening shift agents show lower satisfaction ratings, indicating training or staffing gaps <br><br>
+- **Agent Performance:** Evening shift agents show lower satisfaction ratings, indicating training or staffing gaps.
+<p align="center">
+  <img src="https://github.com/Rishabh45/Flipkart_Customer_Support_Analysis_EDA/blob/main/CSAT%20Score%20Distribution.PNG" width="700" height="400">
+</p>
