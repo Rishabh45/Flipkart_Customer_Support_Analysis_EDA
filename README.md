@@ -1,6 +1,28 @@
 <h1 style="text-align: center;">Flipkart Customer Support Analysis</h1>
 <p><b>Project Type -</b> Exploratory Data Analysis (EDA)</p>
 <h3><b>Project Summary</b></h3>
-<p>In the fiercely competitive e-commerce industry, delivering outstanding customer service is essential for maintaining growth and fostering customer loyalty. As one of the leading e-commerce platforms, Flipkart prioritizes enhancing customer satisfaction to stand out from its competitors. This project’s dataset includes customer interactions, feedback, and satisfaction scores across multiple support channels at Flipkart. By analyzing these interactions, the objective is to pinpoint the primary factors influencing customer satisfaction, evaluate the performance of different customer service teams, and devise strategies to enhance the overall service experience.
+<p>In the competitive e-commerce industry, delivering exceptional customer service is essential for sustaining growth and customer loyalty. This project analyzes Flipkart's customer support interactions, feedback, and satisfaction scores across multiple support channels to identify key factors influencing customer satisfaction. The insights derived will help enhance the efficiency and effectiveness of customer service teams.</p>
+<h3><b>Problem Statement</b></h3>
+<p>Flipkart handles a high volume of customer support queries across multiple channels, making efficient management crucial for customer satisfaction and operational efficiency. Challenges like delayed responses, unresolved complaints, and fluctuating satisfaction levels require analysis to enhance support systems. Examining customer interactions can reveal trends in issue resolution, agent performance, and key factors affecting satisfaction.
 
-Gaining insights into the elements that impact customer satisfaction will enable Flipkart to not only address customer concerns more efficiently but also customize its support strategies to meet varying customer needs. This approach will aid in optimizing service agent performance and boosting key satisfaction metrics like the CSAT score, ultimately strengthening brand loyalty and improving customer retention.</p>
+Key areas of focus include:
+<ul>
+  <li>Identifying the most common issue categories that lead to customer complaints.</li>
+  <li>Examining response times and their correlation with CSAT (Customer Satisfaction) scores.</li>
+  <li>Assessing agent performance based on resolution time and customer feedback.</li>
+  <li>Recognizing patterns that contribute to higher or lower satisfaction scores.</li>
+  <li>Understanding the impact of different support channels (chat, email, phone) on overall customer experience.</li>
+</ul>
+
+By leveraging data analytics, Flipkart can refine its customer support system, enhance agent training, and streamline issue resolution processes, ultimately leading to improved customer satisfaction.
+</p>
+<h3><b>Business Objective</b></h3>
+<p>To enhance Flipkart’s customer support system, several key business objectives must be prioritized to improve efficiency, customer satisfaction, and overall service quality.
+<ul>
+  <li>Improve Customer Satisfaction (CSAT) Scores</li>
+  <li>Optimize Issue Resolution Efficiency</li>
+  <li>Enhance Agent Productivity & Performance</li>
+  <li>Reduce Customer Support Costs</li>
+  <li>Improve Data-Driven Decision-Making</li>
+</ul>
+</p>
