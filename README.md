@@ -63,5 +63,12 @@ Flipkart handles a high volume of customer queries daily, yet challenges like de
 - **Response Time Impact:** Longer response and resolution times strongly correlate with lower CSAT scores.
 - **Agent Performance:** Evening shift agents show lower satisfaction ratings, indicating training or staffing gaps.
 <p align="center">
-  <img src="https://github.com/Rishabh45/Flipkart_Customer_Support_Analysis_EDA/blob/main/CSAT%20Score%20Distribution.PNG" width="800" height="500">
+  <img src="https://github.com/Rishabh45/Flipkart_Customer_Support_Analysis_EDA/blob/main/CSAT%20Score%20Distribution.PNG" width="800" height="400">
+</p>
+<p><b>Observation: </b>
+<ul>
+  <li>The distribution of Customer Satisfaction (CSAT) scores is highly skewed, with the majority of ratings concentrated at 5.0 and a smaller peak at 1.0.</li>
+  <li>There are significantly fewer responses for middle-range scores (2.0 and 3.0), indicating that customers tend to either be very satisfied or very dissatisfied rather than neutral.</li>
+  <li>The high peak at 5.0 suggests that most customers are highly satisfied, while the smaller peak at 1.0 indicates a notable group of dissatisfied customers, highlighting a polarized customer experience.</li>
+</ul>
 </p> <br><br>
